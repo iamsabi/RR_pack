@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "RR_pack_Beta",
+  "version": "Beta_1.x",
+  "author": "dwb_CN",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "forge-40.1.92",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}

@@ -1,0 +1,646 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "RR_pack_Beta",
+  "version": "Beta_1.x",
+  "author": "dwb_CN",
+  "description": "",
+  "fileApi": "",
+  "url": "https://mc.dwbrss.xyz",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.18.2"
+    },
+    {
+      "id": "forge",
+      "version": "40.1.92"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": ".packignore",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/rankine-common.toml",
+      "hash": "80caa2cc375330c54efcaac4fb3d2dde45d103a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "671b1924a1fc97bb1084e8e9b78caed397136618",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "instance.cfg",
+      "hash": "f8578009380c0fd6628df0eac46d888ef2cbc3a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/graphite_dust.png",
+      "hash": "690181f1739792c932ddcd3ef8931fd7914e9b0c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/graphite_dust.psd",
+      "hash": "6dee4954a7eece853398f51ad4cd9ac19842d729",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/slag_brick.png",
+      "hash": "3c6936e49bf20bc5511155fcbcd64c212a1b064f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/slag_brick.psd",
+      "hash": "2d763e638972e1649c9292f32b42aa2b576ac2d3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/client_scripts/script.js",
+      "hash": "dc1ef64bdacb3a600c87b627f1256c7b34260e0f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "cf2a43d3046f5d3fb75ee04b510b59261bccf099",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "1cf08cd3dc351985ebd156fa8f9b6c504d406021",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "a97d76f5c22bd01cd4f1107317ba5cb516b39d3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/create.js",
+      "hash": "bc3b3f478b540b84149807210446ed78c0b52c58",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/createaddition.js",
+      "hash": "042a4c52a1197561c4fa01ac404b944c74a4dd5d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/createbigcannons.js",
+      "hash": "480b1cc6fc1bcc69a035532e53ee758ad1a82e42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/engineersdecor.js",
+      "hash": "ae6f3d8699188f46f9559a605cf8eb8218e2e465",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/immersiveengineering.js",
+      "hash": "3a47505809cf4cbd148bfa57eefb747a7f2951c1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/immersiveposts.js",
+      "hash": "d6510a212993d35caf0edf68b4b9a7da8d1ca3f4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/kube.js",
+      "hash": "d2980057cb030f3d9ceed8a5c155e8d2ffa3588a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/rankine.js",
+      "hash": "95c54d8f853e1ac21afac49ac92b97c3ee1a1edd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/startup_scripts/kube.js",
+      "hash": "ad338f9e1a739822cad168342fbd9f1b03583a77",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mc-patch-version.txt",
+      "hash": "fc17bf03ef2b0401e9c66bc1d9fbee503dbfe958",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "McPatchClient.jar",
+      "hash": "63bbf6962c7537cd06b600729a293389e08cc482",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mmc-pack.json",
+      "hash": "92669dd52a9d5dd48d60cea87cb40d7e1f1b1658",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/alexsmobs-1.18.6.jar",
+      "hash": "f279efff26754fbdf1d6400150f5126f5029e65f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/architectury-4.10.86-forge.jar",
+      "hash": "bfc821dbea22f2991fc15bdb9e6826062ea60c93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/blueprint-1.18.2-5.5.0.jar",
+      "hash": "7b498dbc4938801d5d6e595b64361e5c10a814b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/citadel-1.11.3-1.18.2.jar",
+      "hash": "ca5d46c752f10dae0d77d41a52527f6eacd1895e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/cloth-config-6.4.90-forge.jar",
+      "hash": "75e5461d9adef754ed77352b520ce44e7bd1ef5b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/corpse-1.18.2-1.0.1.jar",
+      "hash": "ef9c30e73f641958752fb4da1fa59acc977664dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/crafting-dead-core-1.18.2-1.7.6-alpha.jar",
+      "hash": "eb079c4ebb6c6486c5ae5af1e536498752bf2d3f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/create-1.18.2-0.5.0.g.jar",
+      "hash": "8286b0993964c9f2aa9e7c55b28657ba252195d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/createaddition-1.18.2-20221219a.jar",
+      "hash": "313c7b0d5e800e9f8207296cac264b886c3a6b54",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/createbigcannons-1.18.2-nightly-a922075.jar",
+      "hash": "fb905cc316acff010805be576dfd389d92cbff98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/create_crystal_clear-0.1.3e-1.18.2.jar",
+      "hash": "2a60350ffb800fffb3ddfdb5ab4d71750c2888d4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/create_enchantment_industry-1.18.2-for-create-0.5.0.g-1.1.9.jar",
+      "hash": "b8be0091117a3043011107fa7d17a74303331e87",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/create_misc_and_things_1.18.2_0.1a.jar",
+      "hash": "0321caca1b7141a7a2afd1a08c867c9f30c3646c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.6.12_mc1.18.2.jar",
+      "hash": "18cdd10beeb66ec662593d4670d6e0c709ed3f4b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/engineersdecor-1.18.2-1.1.24.jar",
+      "hash": "0d505c7f6663b11b44f73e4fe95690f07f9119ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/FarmersDelight-1.18.2-1.2.0.jar",
+      "hash": "33870bb97e204cf410e50de596d49cb1b13935dc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ferritecore-4.2.1-forge.jar",
+      "hash": "ba3071bf50a8ffae349b7eca514415014e939267",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/flywheel-forge-1.18.2-0.6.8.jar",
+      "hash": "e48c360376b852cd691f9e35299e7b5555dcf2bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/framework-0.2.4-1.18.2.jar",
+      "hash": "824ddb627bf335651d5ddcfdf7260e616887823d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ImmersiveEngineering-1.18.2-8.2.2-154.jar",
+      "hash": "355df63a3a049b2573c9309d59a770d21de3ec66",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ImmersivePetroleum-1.18.2-4.0.0-15.jar",
+      "hash": "82b28bdc456291fb49f387406e9a90a93f243b11",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ImmersivePosts-1.18.2-4.3.0-3.jar",
+      "hash": "af13fd553954d7f21a55a651b98d57cb21f314ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/immersive_paintings-0.4.2+1.18.2.jar",
+      "hash": "3ecc13eb82f35f8f9dd19ed0d61b11c862996654",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-forge-1.18.2-1.8.6.jar",
+      "hash": "dfe5290a21ad6e1d971e733eafa261a50e2151ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ironchest-1.18.2-13.1.9.jar",
+      "hash": "b9ee99412453d3656415390aff4492c5564b5649",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ItemPhysicLite_v1.4.8_mc1.18.jar",
+      "hash": "2546e5ae4ffa96a22309e5321173142d1f79c8ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Jade-1.18.2-forge-5.2.3.jar",
+      "hash": "302909c4bbac17744471dd8f8bc083385658aa8e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/JadeAddons-1.18.2-2.4.0.jar",
+      "hash": "a398bb72103edddb73e6caf7b484b4cd281bfd00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kotlinforforge-3.8.0-obf.jar",
+      "hash": "0926a1851f745758e5f569e38f99dece98c6f534",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kubejs-create-forge-1802.2.2-build.28.jar",
+      "hash": "c425772eecdbdbdede3f53f7663954d688c9215e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kubejs-forge-1802.5.5-build.562.jar",
+      "hash": "a4e485f6c38d8a7e4a40f6d7ddfc8e38949fb7e6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kubejs-immersive-engineering-1802.2.1-build.35.jar",
+      "hash": "a8050aa3d6af28ae1035286730c2bfad1440fe35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lazydfu-1.0-1.18+.jar",
+      "hash": "069f72997244b57b76c96ac86faa37b1838d52de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/libIPN-forge-1.18.2-1.0.8.jar",
+      "hash": "8b78619e7ae38cc64a445ec26cf5183a9510900f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/mutil-1.18.2-4.5.0.jar",
+      "hash": "bcc7951d592701de8c46769c9b0eccd6a3a73706",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Patchouli-1.18.2-71.1.jar",
+      "hash": "89e1aa7994794a3476ef6de31461eb1ce78da02d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Placebo-1.18.2-6.5.1.jar",
+      "hash": "a42f77e01dda9eef7065316bdf9a04dcc24366ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/rankine-1.18.2-1.3.5.jar",
+      "hash": "916c853e07a80ee0ede28d19ccb7187d8e4de279",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/REIPluginCompatibilities-forge-8.0.42.jar",
+      "hash": "a875aa9836f7dee330ef883999d2caba034fb223",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/rhino-forge-1802.2.1-build.255.jar",
+      "hash": "75416af83d41e260a0d5a1e9789ba1914ac0bd1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-8.3.579.jar",
+      "hash": "81b02a3e99c7bef0cec41cb5e2d685057272a6f9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/rubidium_extras-1.18.2_v1.3.2.jar",
+      "hash": "a62738e6cde59b674e6d368a704dff91d8fdd381",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/savage_and_ravage-1.18.2-4.0.0.jar",
+      "hash": "6d481742e29291b789dbe56dc87b289fa076852f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Serene+Seasons-1.18.2-7.0.0.13.jar",
+      "hash": "17b21a573316d4c1f94f9ecf1d8c9d177fb77a78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sliceanddice-1.1.0.jar",
+      "hash": "2dd48d3fa2583144b7fe4eaa843a6f544a2dfbcf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/spark-1.9.11-forge.jar",
+      "hash": "27561bd5c57fddef747de6fa27436032f219e641",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Steam_Rails-1.18.2-1.0.4.jar",
+      "hash": "17511c3b22d8bcd5c2047084e1624731011d6466",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/StorageDrawers-1.18.2-10.2.1.jar",
+      "hash": "2330bba44124f5481d34b02fb528815b97d3e357",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/TerraForged-1.18.2-0.3.1-alpha-2.jar",
+      "hash": "de20592765c4e0303ff119971a4c3b95ed16d5a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/tetra-1.18.2-4.9.3.jar",
+      "hash": "f4ba4a171f73749f9097e3df521a0d58bcdec446",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Tough+As+Nails-1.18.2-7.0.0.69.jar",
+      "hash": "11b9fa1300f9aa77f370372d28575183fd4627bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/voicechat-forge-1.18.2-2.3.2.jar",
+      "hash": "b17c46d10b6423316b874cf15c60319fb94a8001",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/glfw.dll",
+      "hash": "9d95a8f52cbd48ab87937714eb4fd2129ed10f0a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/glfw32.dll",
+      "hash": "b9a18c65931b474a453cca5b20903220975f0fc9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc.dll",
+      "hash": "8a6eb00b934da6c97b0dc9d2dc321843076c8987",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc32.dll",
+      "hash": "0d3c5c4d18d9a60501bce1f586684cd2fc5c466f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "d01410449d2402a952e9a6063699f1868196883f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl32.dll",
+      "hash": "a7aa4fbaa375fd39c4cb8eabeef45b44d5848bcb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
+      "hash": "8e9836dd0d1691356db654aa02533ad80e9bf52c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl32.dll",
+      "hash": "2e0fe073b23ab972af00025097efcfcb446d927f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb.dll",
+      "hash": "8b047fb3f6c31946fe33157e7912ac31595cd3b8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb32.dll",
+      "hash": "1c28819763f77cbb4593a95b1cbb0999f136695d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_tinyfd.dll",
+      "hash": "ec0fd8007afba6697d5b3b8249b5be27096a0ce8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_tinyfd32.dll",
+      "hash": "079540a19727772f056cd80535e9645a674190b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/META-INF/INDEX.LIST",
+      "hash": "304659e97a4889e314e2ef15632d1ab02c19827e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/META-INF/MANIFEST.MF",
+      "hash": "bb30425dff1ace753caf8b4f1d50a1a37c4fbaa5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/META-INF/versions/9/module-info.class",
+      "hash": "4fda2f05729e5b34e9f5ae9deff1d516beab238b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL.dll",
+      "hash": "dc8f7a5704164fe3dff3631c326bab7159a9358d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL32.dll",
+      "hash": "aa3fa9446b7c1264e2b463bb53946718e4f8ce82",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
+      "hash": "c4a293116e7531d950db2d5ea737e61a9912b61d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
+      "hash": "70e85ab3f880a7c3d5f0a9aae0f65661cb8af5a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "patchouli_data.json",
+      "hash": "079e1dc83fe5279cb3a7472c14977ed3df36f018",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "rhino.local.properties",
+      "hash": "966e4420bb3089131803c7b49a803f5a7930a927",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "fa18ac10673d460611f7f6f0223555edbbafd1b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "392a122e25f491bf24bcf486b5649fb8808c2ba1",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 2500,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}
